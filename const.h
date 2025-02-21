@@ -1,14 +1,14 @@
 #include <random>
 #include <utility>
 
-const int screenWidth = 800;
-const int screenHeight = 800;
+const int screenWidth = 600;
+const int screenHeight = 600;
 const int fps = 60;
-const int rad = 3;
-const int noPoints = 2000;
+const int rad = 4;
+const int noPoints = 800;
 bool paused = false;
 const int fact = 2;
-const float threshold = 5; 
+const float threshold = 4; 
 const int zones = 10;
 int zoneInc = screenHeight/zones;
 
