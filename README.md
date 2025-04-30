@@ -1,3 +1,5 @@
+## Particle Simulaton
+
 Requirements:
 You need to have Raylib installed separately. 
 
